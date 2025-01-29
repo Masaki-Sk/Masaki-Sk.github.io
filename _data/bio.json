@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Optimization" },
+    { "name": "AI Prediction" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Speech Recognition" }
   ],
   "skills": [
     {
