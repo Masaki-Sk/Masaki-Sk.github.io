@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Masaki-Sk", "url": "http://github.com/Masaki-Sk" },
-      { "network": "linkedin", "username": "Masaki Sakai", "url": "https://www.linkedin.com/in/masaki-sakai-300899314/" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "Masaki Sakai", "url": "https://www.linkedin.com/in/masaki-sakai-300899314/" }
     ]
   },
   "interests": [
