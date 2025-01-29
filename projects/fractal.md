@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/fractal_logo.png
 title: "Fractal"
 date: 2023
 published: true
