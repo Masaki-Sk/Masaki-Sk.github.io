@@ -6,7 +6,7 @@ title: "Fractal"
 date: 2023
 published: true
 labels:
-  - Lisp
+  - Java
   - GitHub
 summary: "An animation of fractal iteraton that I developed for programmig."
 ---
