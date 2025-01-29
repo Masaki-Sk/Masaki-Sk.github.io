@@ -1,3 +1,14 @@
+---
+layout: essay
+type: essay
+title: "The difficult things will always be difficult"
+# All dates must be YYYY-MM-DD format!
+date: 2024-01-18
+published: true
+labels:
+  - Engineering
+---
+
 In Japan, the proportion of investment funds within financial assets remains lower compared to the U.S. and Europe. To address this, the government is encouraging individual investments to stimulate economic growth. However, can ordinary people without financial knowledge truly understand interest rate fluctuations, financial statement analysis, or even quantitative analysis? From the perspective of a securities firm, I am interested in learning about optimization, AI prediction, and speech recognition to assist individuals in making data-driven investment decisions.
 
 First, optimization through programming can significantly improve individual investment portfolios. By considering a vast number of variables, it calculates risk and return, determining the optimal allocation of assets. This allows working individuals to adjust their portfolio strategies in real time, down to the second.
