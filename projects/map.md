@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/map_logo.png
 title: "Map"
 date: 2023
 published: true
