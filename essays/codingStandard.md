@@ -12,8 +12,19 @@ labels:
 
 <img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+I fully support the adoption of coding standards to enhance conde readability among developers.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+A coding standard defines a structured approach to writing code, ensuring consistency and improving readability for peers. However adhering to these standards can sometimes feel restrictive, as ESLint may flag errors even when the code functions correctly.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+When I first wrote TypeScript code with ESLint, I encountered several warnings, including: 
+
+・Expected indentation of 2 spaces but found
+・Newline required at end of file but not found
+・Unexpected space before function parentheses
+・More than one blank line not allowed
+
+Initially, after installing ESLint, my code was flooded with warnings, which I found frustrating.
+
+However, what if coding standards didn't exist? Modern programming languages offer great flexibility, allowing developers to write code in vastly different styles. For example, some programmers place parentheses on a new line, while others do not. This flexibility, while powerful, can lead to inconsistent code that is functionally identical but visually disparate, making it harder to read and maintain.
+
+To improve code readability, across teams, I firmly believe that adhering to coding standards should be mandatory. Standardized code allows developers to quickly understand each other's work, reducing confusion, minimizing stress, and ultimately boosting development productivity.
