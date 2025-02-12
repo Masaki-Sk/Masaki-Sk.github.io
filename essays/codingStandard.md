@@ -19,8 +19,11 @@ A coding standard defines a structured approach to writing code, ensuring consis
 When I first wrote TypeScript code with ESLint, I encountered several warnings, including: 
 
 ・Expected indentation of 2 spaces but found
+
 ・Newline required at end of file but not found
+
 ・Unexpected space before function parentheses
+
 ・More than one blank line not allowed
 
 Initially, after installing ESLint, my code was flooded with warnings, which I found frustrating.
