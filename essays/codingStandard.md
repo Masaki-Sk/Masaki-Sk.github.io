@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/ESLint.png"><br>
+<img width="500px" class="rounded float-start pe-4" src="../img/ESLint.png"><br><br><br><br><br>
 
 I fully support the adoption of coding standards to enhance conde readability among developers.
 
