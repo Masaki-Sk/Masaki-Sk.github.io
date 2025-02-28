@@ -22,11 +22,6 @@ UI frameworks are not simple; in fact, they can feel as complex as learning a ne
 Although UI frameworks can be complex, they significantly simplify and compress code. For example, below are two versions of a navigation bar: the first one implemented with Bootstrap 5 (top) and the second one built without it (bottom). The former achieves the desired result in just a few lines of code, whereas the latter requires extensive CSS. While the learning curve may be steep, in the long run, using a UI framework dramatically reduces development time, making it the preferred choice for building websites quickly.
 </p>
 
-<h4>Design Versatility</h4>
-<p>
-To effectively translate a developer’s complex vision into reality, a framework must provide as many graphical options as possible. With Bootstrap, implementing features such as background videos with overlaid text, image sliders, and pop-ups becomes relatively easy. Additionally, navigation bars and footers can be effortlessly created. Compared to developing with only HTML, Bootstrap allows for a much broader range of design possibilities, enabling developers to build richer and more engaging user experiences.
-</p>
-
 ```cpp
 byte ADCRead(byte ch)
 <!DOCTYPE html>
@@ -169,6 +164,11 @@ byte ADCRead(byte ch)
 </body>
 </html>
 ```
+
+<h4>Design Versatility</h4>
+<p>
+To effectively translate a developer’s complex vision into reality, a framework must provide as many graphical options as possible. With Bootstrap, implementing features such as background videos with overlaid text, image sliders, and pop-ups becomes relatively easy. Additionally, navigation bars and footers can be effortlessly created. Compared to developing with only HTML, Bootstrap allows for a much broader range of design possibilities, enabling developers to build richer and more engaging user experiences.
+</p>
 
 <h4>Enhanced Consistency</h4>
 <p>
