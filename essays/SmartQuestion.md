@@ -27,7 +27,8 @@ In <a href = "http://www.catb.org/esr/faqs/smart-questions.html">How to Ask Ques
 This question asks about the location of official Python documentation for special methods. Since many Python developers frequently use special methods, the question garnered widespread interest, leading to numerous views and responses.
 </p>
 
-<h6>Example of a Not-So-Smart Question</h6>
+<h4>Example of a Not-So-Smart Question</h4>
+<h6>Question: Is initializing the model class in an MVC app in Python necessary?</h6>
 <ul>
   <li>Views: 26 in 6 days</li>
   <li>Answers: 0</li>
