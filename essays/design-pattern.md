@@ -19,7 +19,7 @@ Is there a programmer who develops every part of a program entirely from scratch
 
 <h4>What is Design Pattern?</h4>
 <p>
-First, let us clarify what a design pattern actually is. Imagine you are tasked with creating a new software module. Which is easier: designing it completely from the ground up, or improving upon a pre-existing, well-established model? A design pattern provides this kind of foundational model — a reusable template for solving common design problems. In more abstract terms, a design pattern is a "building block of design," offering a standardized way to manage responsibilities and interactions between objects.
+First, let me clarify what a design pattern actually is. Imagine you are tasked with creating a new software module. Which is easier: designing it completely from the ground up, or improving upon a pre-existing, well-established model? A design pattern provides this kind of foundational model — a reusable template for solving common design problems. In more abstract terms, a design pattern is a "building block of design," offering a standardized way to manage responsibilities and interactions between objects.
 </p>
 
 <h4>Example of Design Pattern</h4>
@@ -47,7 +47,6 @@ const CreateProfileForm: React.FC = () => {
     redirect('/auth/signin');
   }
 ```
-
 
 <h4>Pitfall of Design Pattern</h4>
 <p>
