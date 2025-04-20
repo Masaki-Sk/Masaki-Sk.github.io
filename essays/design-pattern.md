@@ -27,6 +27,28 @@ First, let us clarify what a design pattern actually is. Imagine you are tasked 
 One example comes from a project I worked on at the University of Hawai‘i: a social networking platform called Manoa Connect. On the Create Profile page, I implemented functionality that validated user input and submitted it to a database. By using tools like useForm() and yupResolver(), I was able to handle form validation and state management without needing to deal with the underlying complexity directly. This approach exemplifies the Facade pattern, which simplifies complex subsystems behind a unified interface. By relying on this abstraction, I was able to significantly improve productivity.
 </p>
 
+```cpp
+const CreateProfileForm: React.FC = () => {
+  const { data: session, status } = useSession();
+  // console.log('createProfileForm', status, session);
+  const currentUser = session?.user?.email || '';
+  const {
+    register,
+    handleSubmit,
+    reset,
+    formState: { errors },
+  } = useForm({
+    resolver: yupResolver(createProfileSchema),
+  });
+  if (status === 'loading') {
+    return <LoadingSpinner />;
+  }
+  if (status === 'unauthenticated') {
+    redirect('/auth/signin');
+  }
+```
+
+
 <h4>Pitfall of Design Pattern</h4>
 <p>
 However, overreliance on design patterns comes with its own risks. When exceptional or unanticipated situations arise, a system built entirely around generic patterns may struggle to adapt. While design patterns help manage complexity through reusable structures, they are typically optimized for common functionality. If a product involves unique or domain-specific requirements, these patterns may not be sufficient. Misusing patterns without understanding their inner structure can result in unexpected errors and system brittleness.
