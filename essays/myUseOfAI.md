@@ -22,108 +22,78 @@ The news that "AI passed the entrance exam for the University of Tokyo, Japan's 
 Here are specific examples of how I used ChatGPT to deepen my understanding during ICS 332:
 </p>
 
-<h5>
-・Experience WODs 
-</h5>
+<h6>・Experience WODs </h6>
 <p>
 I asked questions like “What is Prisma, and how does it communicate with the database?” to understand its underlying mechanisms.
 </p>
 
-<h5>
-・In-class Practice WODs 
-</h5>
+<h6>・In-class Practice WODs </h6>
 <p>
 I asked “Why doesn’t this code work?” to deepen my comprehension.
 </p>
 
-<h5>
-・In-class WODs 
-</h5>
+<h6>・In-class WODs </h6>
 <p>
 I asked “Why doesn’t this code work?” to deepen my comprehension.
 </p>
 
-<h5>
-・Essays 
-</h5>
+<h6>・Essays </h6>
 <p>
 I asked “Can you make this sentence more natural English manner?” and used the results to refine my writing.
 </p>
 
 
-<h5>
-・Final Project
-</h5>
+<h6>・Final Project</h6>
 <p>
 I asked “How can I implement real-time communication?” and “Why doesn’t this code work?” AI was a valuable source of information for solving unfamiliar problems.
 </p>
 
-<h5>
-・Learning a concept/tutorial
-</h5>
+<h6>・Learning a concept/tutorial</h6>
 <p>
 I asked questions like “Can you give an example?” or “How is this different from X?” to explore the concepts further.
 </p>
 
-<h5>
-・Answering questions in class or on Discord
-</h5>
+<h6>・Answering questions in class or on Discord</h6>
 <p>
 I valued my own ideas and chose not to use AI.
 </p>
 
-<h5>
-・Asking or answering a smart question 
-</h5>
+<h6>・Asking or answering a smart question </h6>
 <p>
 I valued my own ideas and chose not to use AI.
 </p>
 
-<h5>
-・Coding example
-</h5>
+<h6>・Coding example</h6>
 <p>
 I asked “What becomes possible with 'use client'?” to deepen my understanding.
 </p>
 
-<h5>
-・Explaining code 
-</h5>
+<h6>・Explaining code </h6>
 <p>
 Since this was not directly related to code, I wrote my own explanation.
 </p>
 
-<h5>
-・Writing code
-</h5>
+<h6>・Writing code</h6>
 <p>
 I wrote the documentation myself, as it was not directly related to code.
 </p>
 
-<h5>
-・Documenting code
-</h5>
+<h6>・Documenting code</h6>
 <p>
 I wrote the documentation myself, as it was not directly related to code.
 </p>
 
-<h5>
-・Experience WODs 
-</h5>
+<h6>・Experience WODs </h6>
 <p>
 I asked questions like “What is Prisma, and how does it communicate with the database?” to understand its underlying mechanisms.
 </p>
 
-<h5>
-・Quality assurance 
-</h5>
+<h6>・Quality assurance </h6>
 <p>
 I asked “Why is this error happening?” to understand unfamiliar syntax rules.
 </p>
 
-<h5>
-・Other uses in ICS 314 not listed 
-</h5>
+<h6>・Other uses in ICS 314 not listed </h6>
 <p>
 I often asked “Does this mean X?” to solidify my understanding.
 </p>
