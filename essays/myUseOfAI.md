@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/myUseOfAI.png"><br><br><br><br><br><br><br><br><br><br>
+<img width="500px" class="rounded float-start pe-4" src="../img/myUseOfAI.png"><br><br><br><br><br><br><br><br><br><br><br>
 
 <h4>Introduction</h4>
 <p>
@@ -50,7 +50,7 @@ I asked “How can I implement real-time communication?” and “Why doesn’t 
 
 <h6>・Learning a concept/tutorial</h6>
 <p>
-I asked questions like “Can you give an example?” or “How is this different from X?” to explore the concepts further.
+I asked questions like “Can you give an example?” or “How is this different from ○○?” to explore the concepts further.
 </p>
 
 <h6>・Answering questions in class or on Discord</h6>
@@ -95,7 +95,7 @@ I asked “Why is this error happening?” to understand unfamiliar syntax rules
 
 <h6>・Other uses in ICS 314 not listed </h6>
 <p>
-I often asked “Does this mean X?” to solidify my understanding.
+I often asked “Does this mean ○○?” to solidify my understanding.
 </p>
 
 <p>
