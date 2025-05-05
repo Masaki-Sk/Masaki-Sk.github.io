@@ -110,7 +110,7 @@ From my personal experience, I believe AI has greatly contributed to my learning
 
 <h4>Practical Applications</h4>
 <p>
-In other courses as well, I used AI as an advisor. For example, when developing a university location app using Python and the Google Maps API, I relied heavily on AI to understand how to use the API. At first, I didn’t understand much, but by following AI’s guidance and writing code hands-on, I gradually grasped how each module worked. This demonstrates AI’s usefulness in practical development.
+In other experiences as well, I used AI as an advisor. For example, when developing a university location app using Python and the Google Maps API, I relied heavily on AI to understand how to use the API. At first, I didn’t understand much, but by following AI’s guidance and writing code hands-on, I gradually grasped how each module worked. This demonstrates AI’s usefulness in practical development.
 </p>
 
 <h4>Challenges and Opportunities</h4>
