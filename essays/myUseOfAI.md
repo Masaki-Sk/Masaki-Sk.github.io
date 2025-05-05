@@ -130,5 +130,5 @@ AI has made unprecedented progress over the past decades, and some say we may se
 
 <h4>Conclusion</h4>
 <p>
-As a probabilistic model, AI tends to exclude radically novel or unprecedented ideas. And lacking a physical presence, it is difficult for AI to pioneer new industries. Because of this, the demand for engineers as AI implementation consultants will likely grow. Engineering education should focus on teaching students how to learn effectively from AI and apply that knowledge in real-world settings. Education on how to use AI for learning enhancement may also become essential.
+As a probabilistic model, AI tends to exclude radically novel or unprecedented ideas. And lacking a physical presence, it is difficult for AI to be introduced and operated effectively within industries.Because of this, the demand for engineers as AI implementation consultants will likely grow. Engineering education should focus on teaching students how to learn effectively from AI and apply that knowledge in real-world settings. Education on how to use AI for learning enhancement may also become essential.
 </p>
