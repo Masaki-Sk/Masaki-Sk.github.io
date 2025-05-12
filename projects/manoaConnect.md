@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fractal_logo.png
+image: img/manoa-connect_logo.png
 title: "Manoa Connect"
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A social media for UH student."
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/manoa-connect.jpg"><br><br><br><br><br><br><br><br><br>
+<img width="500px" class="rounded float-start pe-4" src="../img/manoa-connect.png"><br><br><br><br><br><br><br><br><br>
 <h4>【Overview】</h4>
 <p>
 There was a shared awareness within our team of the issue that friendships tended to be concentrated within one’s own academic department.
