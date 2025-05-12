@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: manoa-connect_logo.png
+image: img/manoa-connect_logo.png
 title: "Manoa Connect"
 date: 2025
 published: true
