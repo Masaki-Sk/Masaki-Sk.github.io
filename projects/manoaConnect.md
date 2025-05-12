@@ -12,7 +12,7 @@ labels:
 summary: "A social media for UH student."
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/manoa-connect_home.png"><br><br><br><br><br><br><br><br><br>
+<img width="1000px" class="rounded float-start pe-4" src="../img/manoa-connect_home.png"><br><br><br><br><br><br><br><br><br><br>
 <h4>【Overview】</h4>
 <p>
 There was a shared awareness within our team of the issue that friendships tended to be concentrated within one’s own academic department.
@@ -38,6 +38,7 @@ First, let me clarify what a design pattern actually is. Imagine you are tasked 
     <li>Chat page</li>
     <li>Matching page</li>
   </ul>
+URL: <a href = "https://manoa-connect-now.vercel.app/">https://manoa-connect-now.vercel.app/</a>
 </p>
 
 <h4>【My Role】</h4>
