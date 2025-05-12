@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoa-connect_logo.png
+image: manoa-connect_logo.png
 title: "Manoa Connect"
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A social media for UH student."
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/manoa-connect_home.png"><br><br><br><br><br><br><br><br><br><br><br>
+<img width="1000px" class="rounded float-start pe-4" src="../img/manoa-connect_home.png"><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4>【Overview】</h4>
 <p>
 Our team shared the issue that friendships tended to be concentrated within one’s own academic department. The root cause of this was that most opportunities to interact at school came through classes, and even extracurricular events were typically related to the student’s department. So, the solution we aimed for was to create a “space” where people could engage with a broader range of individuals. The “Manoa Connect” project was launched to enable the formation of cross-departmental friendships through a chat application featuring high-randomness matching.
@@ -33,7 +33,7 @@ URL: <a href = "https://manoa-connect-now.vercel.app/">https://manoa-connect-now
 
 <h4>【My Role】</h4>
 <p>
-I was in charge of the chat page. Using note functions and state management, I implemented real-time chat functionality.
+I was in charge of the chat page. Using note functions and state management, I implemented real-time chat functionality. I was also involved in UI development. I implemented interactive read/unread indicators and ensured accurate display of message timestamps and dates to enhance the real-time communication experience. To support this, I also developed the necessary APIs and designed the database, fundmentally improving the system.
 </p>
 
 <h4>【Community Feedback】</h4>
